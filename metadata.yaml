@@ -1,0 +1,36 @@
+_repo: As-Saudades-do-Bardo-Orthodoxo_23525
+_version: 0.1.0
+alternative_title: As Saudades do Bardo Ortodoxo
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coutinho, Henrique Ernesto de Almeida
+    aliases:
+    - Coutinho, Henrique Ernesto d'Almeida
+    - Almeida Coutinho, Henrique Ernesto de
+    birthdate: 1788
+    deathdate: 1868
+    gutenberg_agent_id: '25894'
+    url: http://www.gutenberg.org/2009/agents/25894
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23525'
+language: pt
+language_note: This ebook uses a 19th century spelling
+production_note: "Produced by Pedro Saborano (produced from scanned images\r\nof public\
+  \ domain material from Google Book Search)"
+publication_note: "Porto:\r\nNa Imprensa De Alvares Ribeiro\r\nLavadouros N.º 16\r\
+  \n1837"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: As Saudades do Bardo Orthodoxo
+url: http://www.gutenberg.org/ebooks/23525
